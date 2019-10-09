@@ -1,0 +1,13 @@
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\bin\Release\CrashReport.exe.config
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\bin\Release\CrashReport.exe
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\bin\Release\CrashReport.pdb
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\bin\Release\RestSharp.dll
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\bin\Release\RestSharp.xml
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.CrashReport.resources
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.Properties.Resources.resources
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.csproj.GenerateResource.cache
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.csproj.CoreCompileInputs.cache
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.csproj.CopyComplete
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.exe
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.pdb
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\CrashReport\obj\Release\CrashReport.csprojAssemblyReference.cache

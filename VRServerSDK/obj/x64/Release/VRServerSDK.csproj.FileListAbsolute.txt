@@ -1,0 +1,14 @@
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\bin\x64\Release\VRServerSDK.exe.config
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\bin\x64\Release\VRServerSDK.exe
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\bin\x64\Release\VRServerSDK.pdb
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\bin\x64\Release\RestSharp.dll
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\bin\x64\Release\System.Management.Automation.dll
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\bin\x64\Release\RestSharp.xml
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.Demo.resources
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.Properties.Resources.resources
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.csproj.GenerateResource.cache
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.csproj.CoreCompileInputs.cache
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.csproj.CopyComplete
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.exe
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.pdb
+D:\CloudVR_Necessities\Server_SDK\CloudVrServerSdkV1.6\VRServerSDK\obj\x64\Release\VRServerSDK.csprojAssemblyReference.cache
